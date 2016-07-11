@@ -1,0 +1,12 @@
+{
+  "name": "ts-behavior-tree",
+  "version": "1.0.0",
+  "description": "typescript unreal engine behavior tree implement ",
+  "main": "build/index.js",
+  "typings":"build/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
